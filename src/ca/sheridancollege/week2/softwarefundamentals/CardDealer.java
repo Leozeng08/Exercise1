@@ -5,6 +5,8 @@
  */
 package ca.sheridancollege.week2.softwarefundamentals;
 
+//this is a comment from Liang Zeng
+//this is our first in class exercise
 /**
  * The class where we create Cards
  * @author dancye, 2019

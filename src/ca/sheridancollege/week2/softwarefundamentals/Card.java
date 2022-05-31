@@ -5,6 +5,9 @@
  */
 package ca.sheridancollege.week2.softwarefundamentals;
 
+//this is a comment from Liang Zeng
+//this is our first in class exercise
+
 /**
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo
