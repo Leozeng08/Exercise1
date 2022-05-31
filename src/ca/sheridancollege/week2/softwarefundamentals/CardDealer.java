@@ -24,6 +24,10 @@ public class CardDealer
         Card eightClubs = new Card("Clbs", 8);
         eightClubs.setSuit("Hearts");
         System.out.println("eight's suit is " + eightClubs.getSuit());
+        Card sevenClubs = new Card("Clbs", 7);
+        sevenClubs.setSuit("Diamonds");
+        System.out.println("seven's suit is " + sevenClubs.getSuit());
+        
         
     }
 }
