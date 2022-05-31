@@ -23,6 +23,7 @@ public class CardDealer
         
         Card eightClubs = new Card("Clbs", 8);
         eightClubs.setSuit("Hearts");
+        System.out.println("eight's suit is " + eightClubs.getSuit());
         
     }
 }
